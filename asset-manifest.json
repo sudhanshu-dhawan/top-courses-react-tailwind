@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/top-courses-react-tailwind/static/css/main.8ba6df3a.css",
-    "main.js": "/top-courses-react-tailwind/static/js/main.af9f81e9.js",
+    "main.css": "/top-courses-react-tailwind/static/css/main.d1494ea9.css",
+    "main.js": "/top-courses-react-tailwind/static/js/main.b5a68184.js",
     "static/js/787.0e6d7be8.chunk.js": "/top-courses-react-tailwind/static/js/787.0e6d7be8.chunk.js",
     "index.html": "/top-courses-react-tailwind/index.html",
-    "main.8ba6df3a.css.map": "/top-courses-react-tailwind/static/css/main.8ba6df3a.css.map",
-    "main.af9f81e9.js.map": "/top-courses-react-tailwind/static/js/main.af9f81e9.js.map",
+    "main.d1494ea9.css.map": "/top-courses-react-tailwind/static/css/main.d1494ea9.css.map",
+    "main.b5a68184.js.map": "/top-courses-react-tailwind/static/js/main.b5a68184.js.map",
     "787.0e6d7be8.chunk.js.map": "/top-courses-react-tailwind/static/js/787.0e6d7be8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ba6df3a.css",
-    "static/js/main.af9f81e9.js"
+    "static/css/main.d1494ea9.css",
+    "static/js/main.b5a68184.js"
   ]
 }
