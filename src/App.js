@@ -40,13 +40,15 @@ catch(error){
 
 
   return (
-    <div className="flex flex-col min-h-screen bg-slate-600 justify-center items-center "  >
-
-      <div className="bg-slate-950 w-full" >
+    <>
+       <div className="bg-slate-950 w-full" >
       <Navbar/>
       </div>
+    <div className="flex flex-col min-h-screen bg-slate-600 justify-center items-center "  >
 
-         <div>
+   
+
+         <div  >
          <Filter 
                
                filterData = {filterData}
@@ -61,6 +63,7 @@ catch(error){
       }
       </div>
     </div>
+    </>
   );
 }
 export default App;
